@@ -1,4 +1,4 @@
-// Async
+// Async - Await
 
 // const getImagePromise = () =>
 //   new Promise(resolve => resolve('https//asdasdasd.com'))
